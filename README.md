@@ -20,14 +20,20 @@ TRAFFIC MONITORING SYSTEM - TEAM 8
 					 |_____/ \__, |___/\__\___|_| |_| |_|                  
 					          __/ |                                        
 					         |___/
-
-| Team Members   |       Contribution             |
-|    CSE19016    |                                |
-|    CSE19017    | User, Loginc, Main             |
-|    CSE19018    | Person, TrafficPolice          |
-|    CSE19023    | Controller, Main, AccidentLog, |
-|                | Logs, TrafficViolationLog      |
-|    CSE19058    | Controller, Vehicle, Junction  |
-|                | Road, Police_Station           |
+____________________________________________________
+| Team Members   |       Contribution              |
+____________________________________________________
+|    CSE19016    |                                 |
+____________________________________________________
+|    CSE19017    | User, Loginc, Main              |
+____________________________________________________
+|    CSE19018    | Person, TrafficPolice           |
+____________________________________________________
+|    CSE19023    | Controller, Main, AccidentLog,  |
+|                | Logs, TrafficViolationLog       |
+____________________________________________________
+|    CSE19058    | Controller, Vehicle, Junction   |
+|                | Road, Police_Station            |
+____________________________________________________
 
 
