@@ -24,12 +24,12 @@ TRAFFIC MONITORING SYSTEM - TEAM 8
 
 <table>
 	<tr>
-		<td>Team Members</td>
-		<td>Contribution I</td>
+		<td> Team Members </td>
+		<td> Contribution </td>
 	</tr>
 	<tr>
 		<td>CSE19016</td>
-		<td></td>
+		<td> Vehicle, TrafficViolationLog, AccidentLog</td>
 	</tr>
 	<tr>
 		<td>CSE19017</td>
@@ -41,11 +41,11 @@ TRAFFIC MONITORING SYSTEM - TEAM 8
 	</tr>
 	<tr>
 		<td>CSE19023</td>
-		<td>Controller, Main, AccidentLog, Logs, TrafficViolationLog</td>
+		<td>Controller, Main, Logs </td>
 	</tr>
 	<tr>
 		<td>CSE19058</td>
-		<td>Controller, Vehicle, Junction, Road, Police_Station</td>
+		<td> Controller, Junction, Road, Police_Station, Swing-Interface </td>
 	</tr>
 	
 	
