@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TrafficViolationLog extends Logs
+public final class TrafficViolationLog extends Logs
 {
 	Scanner input = new Scanner(System.in);
 	public int VID;
